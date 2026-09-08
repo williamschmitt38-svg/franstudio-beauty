@@ -107,7 +107,7 @@ if (wifiBtn && wifiModal) {
 
     if (wifiPhone) {
         wifiPhone.addEventListener('click', () => {
-            window.open('https://api.whatsapp.com/send?phone=5555999999999', '_blank');
+            window.open('https://api.whatsapp.com/send?phone=5554991794951', '_blank');
         });
     }
 }
